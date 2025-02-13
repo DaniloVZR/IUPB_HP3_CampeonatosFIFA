@@ -8,6 +8,6 @@ Practicing backend technologies integrated with .NET & C#.
 
 ### Backend
 
-- **.Net:** backend development.
-- **C#:** Programming Language.
-- **Entity.Framework:** ORM.
+- **.Net:** Framework for building scalable and high-performance applications..
+- **C#:** Object-oriented programming language used for backend logic.
+- **Entity.Framework:** ORM for database management and data access.
