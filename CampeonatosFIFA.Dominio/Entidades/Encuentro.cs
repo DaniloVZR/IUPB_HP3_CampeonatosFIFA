@@ -35,10 +35,4 @@ public class Encuentro
 
     [Column("Goles2")]
     public int? Goles2 { get; set; }
-
-    [Column("Penalties1")]
-    public int? Penalties1 { get; set; }
-
-    [Column("Penalties2")]
-    public int? Penalties2 { get; set; }
 }
