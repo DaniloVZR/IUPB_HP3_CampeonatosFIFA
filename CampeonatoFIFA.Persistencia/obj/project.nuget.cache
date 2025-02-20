@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JZmMjY8D1wUZWI62ISeem0p20HdCuc1PuD5UIK3zj4hVK/gsb9eG7uu+VbjKSz+eNNl1uPwiDRO5U4duGtULZA==",
+  "dgSpecHash": "2dZd9ci157erqwzmROTDLW87A1sDX38CZGoTJh8W7Gjwxe9Og1iZaaKyErcBczdm62BoTa0yuLdBkJY5zkHwgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Danilo UD\\source\\repos\\Herramientas de Programación III\\CampeonatosFIFA\\CampeonatoFIFA.Persistencia\\CampeonatoFIFA.Persistencia.csproj",
+  "projectFilePath": "C:\\Users\\Danilo UD\\source\\repos\\Herramientas de Programación III\\CampeonatosFIFA\\CampeonatoFIFA.Persistencia\\CampeonatosFIFA.Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Danilo UD\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Danilo UD\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

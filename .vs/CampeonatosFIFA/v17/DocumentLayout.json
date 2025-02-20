@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Danilo UD\\source\\repos\\Herramientas de Programaci\u00F3n III\\CampeonatosFIFA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F765526B-C6DF-4D60-9BD9-B962C0DBB662}|CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj|c:\\users\\danilo ud\\source\\repos\\herramientas de programaci\u00F3n iii\\campeonatosfifa\\campeonatosfifa.core\\repositorios\\iseleccionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F765526B-C6DF-4D60-9BD9-B962C0DBB662}|CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj|solutionrelative:campeonatosfifa.core\\repositorios\\iseleccionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F1338C54-183E-4796-9877-BA247A6E4EFE}|CampeonatoFIFA.Persistencia\\CampeonatoFIFA.Persistencia.csproj|c:\\users\\danilo ud\\source\\repos\\herramientas de programaci\u00F3n iii\\campeonatosfifa\\campeonatofifa.persistencia\\contexto\\campeonatofifacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1338C54-183E-4796-9877-BA247A6E4EFE}|CampeonatoFIFA.Persistencia\\CampeonatoFIFA.Persistencia.csproj|solutionrelative:campeonatofifa.persistencia\\contexto\\campeonatofifacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 1234,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,19 +38,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ISeleccionRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Danilo UD\\source\\repos\\Herramientas de Programaci\u00F3n III\\CampeonatosFIFA\\CampeonatosFIFA.Core\\Repositorios\\ISeleccionRepositorio.cs",
+              "RelativeDocumentMoniker": "CampeonatosFIFA.Core\\Repositorios\\ISeleccionRepositorio.cs",
+              "ToolTip": "C:\\Users\\Danilo UD\\source\\repos\\Herramientas de Programaci\u00F3n III\\CampeonatosFIFA\\CampeonatosFIFA.Core\\Repositorios\\ISeleccionRepositorio.cs",
+              "RelativeToolTip": "CampeonatosFIFA.Core\\Repositorios\\ISeleccionRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:11:14.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Encuentro.cs",
               "DocumentMoniker": "C:\\Users\\Danilo UD\\source\\repos\\Herramientas de Programaci\u00F3n III\\CampeonatosFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Encuentro.cs",
               "RelativeDocumentMoniker": "CampeonatosFIFA.Dominio\\Entidades\\Encuentro.cs",
               "ToolTip": "C:\\Users\\Danilo UD\\source\\repos\\Herramientas de Programaci\u00F3n III\\CampeonatosFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Encuentro.cs",
               "RelativeToolTip": "CampeonatosFIFA.Dominio\\Entidades\\Encuentro.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAADwvyYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T23:58:18.743Z"
+              "WhenOpened": "2025-02-18T23:58:18.743Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Fase.cs",
               "DocumentMoniker": "C:\\Users\\Danilo UD\\source\\repos\\Herramientas de Programaci\u00F3n III\\CampeonatosFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Fase.cs",
               "RelativeDocumentMoniker": "CampeonatosFIFA.Dominio\\Entidades\\Fase.cs",
@@ -54,11 +72,12 @@
               "RelativeToolTip": "CampeonatosFIFA.Dominio\\Entidades\\Fase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T23:56:27.995Z"
+              "WhenOpened": "2025-02-18T23:56:27.995Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Grupo.cs",
               "DocumentMoniker": "C:\\Users\\Danilo UD\\source\\repos\\Herramientas de Programaci\u00F3n III\\CampeonatosFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Grupo.cs",
               "RelativeDocumentMoniker": "CampeonatosFIFA.Dominio\\Entidades\\Grupo.cs",
@@ -66,17 +85,18 @@
               "RelativeToolTip": "CampeonatosFIFA.Dominio\\Entidades\\Grupo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T23:49:02.51Z"
+              "WhenOpened": "2025-02-18T23:49:02.51Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CampeonatoFIFAContext.cs",
               "DocumentMoniker": "C:\\Users\\Danilo UD\\source\\repos\\Herramientas de Programaci\u00F3n III\\CampeonatosFIFA\\CampeonatoFIFA.Persistencia\\Contexto\\CampeonatoFIFAContext.cs",
               "RelativeDocumentMoniker": "CampeonatoFIFA.Persistencia\\Contexto\\CampeonatoFIFAContext.cs",
               "ToolTip": "C:\\Users\\Danilo UD\\source\\repos\\Herramientas de Programaci\u00F3n III\\CampeonatosFIFA\\CampeonatoFIFA.Persistencia\\Contexto\\CampeonatoFIFAContext.cs",
               "RelativeToolTip": "CampeonatoFIFA.Persistencia\\Contexto\\CampeonatoFIFAContext.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAcwCwAAAAqAAAA",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAcwG4AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T13:28:11.229Z",
               "EditorCaption": ""

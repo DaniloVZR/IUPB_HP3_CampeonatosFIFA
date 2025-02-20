@@ -5,8 +5,14 @@ namespace CampeonatoFIFA.Persistencia.Contexto
 {
     public class CampeonatoFIFAContext : DbContext
     {
-        public DbSet<Pais> Paises { get; set; }
         public DbSet<Campeonato> Campeonatos{ get; set; }
+        public DbSet<Ciudad> Ciudades {  get; set; }
+        public DbSet<Encuentro> Encuentros { get; set; }
+        public DbSet<Estadio> Estadios { get; set; }
+        public DbSet<Fase> Fases { get; set; }
+        public DbSet<Grupo> Grupos { get; set; }
+        public DbSet<GrupoPais> GruposPaises { get; set; }        
+        public DbSet<Pais> Paises { get; set; }
 
         public CampeonatoFIFAContext(DbContextOptions<CampeonatoFIFAContext> options): base(options)
         {
@@ -83,6 +89,13 @@ namespace CampeonatoFIFA.Persistencia.Contexto
                 .WithMany()
                 .HasForeignKey(e => e.IdCampeonato);
 
+            // Modelo GrupoPais
+
+            builder.Entity<GrupoPais>(entidad =>
+            {
+                entidad.HasKey(e => new { e.IdGrupo, e.IdPais});                
+            });
+
             // Modelo GrupoPais - Foreign Keys
 
             builder.Entity<GrupoPais>()
@@ -108,7 +121,6 @@ namespace CampeonatoFIFA.Persistencia.Contexto
             builder.Entity<Encuentro>(entidad =>
             {
                 entidad.HasKey(e => e.Id);
-                entidad.HasIndex(e => e.Id);
             });
 
             // Modelo Encuentro - Foreign Keys

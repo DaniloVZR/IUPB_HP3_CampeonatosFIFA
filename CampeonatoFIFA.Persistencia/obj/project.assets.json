@@ -2829,9 +2829,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Danilo UD\\source\\repos\\Herramientas de Programación III\\CampeonatosFIFA\\CampeonatoFIFA.Persistencia\\CampeonatoFIFA.Persistencia.csproj",
-      "projectName": "CampeonatoFIFA.Persistencia",
-      "projectPath": "C:\\Users\\Danilo UD\\source\\repos\\Herramientas de Programación III\\CampeonatosFIFA\\CampeonatoFIFA.Persistencia\\CampeonatoFIFA.Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\Danilo UD\\source\\repos\\Herramientas de Programación III\\CampeonatosFIFA\\CampeonatoFIFA.Persistencia\\CampeonatosFIFA.Persistencia.csproj",
+      "projectName": "CampeonatosFIFA.Persistencia",
+      "projectPath": "C:\\Users\\Danilo UD\\source\\repos\\Herramientas de Programación III\\CampeonatosFIFA\\CampeonatoFIFA.Persistencia\\CampeonatosFIFA.Persistencia.csproj",
       "packagesPath": "C:\\Users\\Danilo UD\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Danilo UD\\source\\repos\\Herramientas de Programación III\\CampeonatosFIFA\\CampeonatoFIFA.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
